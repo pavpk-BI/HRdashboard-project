@@ -1,0 +1,39 @@
+## 📄 Business Request (Email Style)
+
+**From:** Maria Gomez, HR Manager  
+**To:** Pavitra – Business Intelligence Analyst 
+**Subject:** Request for Comprehensive HR Dashboard for Workforce Insights
+
+---
+
+**Background:**  
+As the HR Manager, I’m currently relying on fragmented spreadsheets and manual reports to track workforce data, which makes it difficult to get a clear, up-to-date picture of our employee metrics. We want to consolidate all key HR insights into one place and gain the ability to drill down into specific records.
+
+**Request:**  
+We need a comprehensive dashboard that can provide both high-level summaries and detailed employee records. The dashboard should include the following:
+
+### Summary View (Three Sections)
+1. **Overview**
+   - Total number of hired, active, and terminated employees.
+   - Hiring and termination trends over the years.
+   - Breakdown of employees by department and job title.
+   - Comparison of HQ (New York) vs branch locations.
+   - Distribution of employees by city and state.
+
+2. **Demographics**
+   - Gender ratio across the organization.
+   - Employee distribution by age group and education level.
+   - Correlation between education background and performance ratings.
+
+3. **Income Analysis**
+   - Salary comparisons across education levels and genders.
+   - Correlation of age with salary across departments.
+
+### Employee Records View
+- A full list of all employees with fields like name, department, position, gender, age, education, and salary.
+- Filtering options on all columns for custom analysis.
+
+**Outcome:**  
+The goal is to better understand our workforce, make data-driven HR decisions, and identify gaps or trends that can guide recruitment, performance management, and compensation strategies.
+
+Let me know if you need access to any files or system connections.
