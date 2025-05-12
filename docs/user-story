@@ -1,0 +1,8 @@
+## 👥 User Stories
+
+| No # | As a (role)     | I want (request / demand)                                           | So that I (user value)                                               | Acceptance Criteria                                                                 |
+|------|------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 1    | HR Manager        | A summary view of total, active, and terminated employees          | I can track hiring trends and organizational growth                  | Dashboard shows total counts and yearly trends for hiring/terminations              |
+| 2    | HR Analyst        | Employee demographics breakdown by gender, age, and education      | I can identify diversity gaps and support inclusion strategies       | Visual charts displaying gender, age groups, and education levels                   |
+| 3    | Department Head   | See salary distribution across education and gender                | I can spot discrepancies and ensure pay equity                       | Comparative salary visuals by education and gender                                  |
+| 4    | HR Manager        | A searchable list of employees with detailed info                  | I can easily access and filter employee data for decision-making     | Employee table with filtering options on name, department, gender, education, etc.  |
